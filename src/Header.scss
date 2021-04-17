@@ -1,0 +1,28 @@
+.App-header {
+  display: flex;
+  background-color: #282c34;
+  font-size: 1rem;
+  color: white;
+  width: 100%;
+  height: 50px;
+  position: fixed;
+  align-items: center;
+
+  .App-Name{
+    display: flex;
+    margin-left: 1rem;
+    .App-icon{
+      font-size: 1.5rem;
+      margin-right: 8px;
+      color: #61dbfb;
+    }
+  }
+
+  .Right-icons{
+    margin-left: auto;
+    margin-right: 1rem;
+    .Icon-buttons{
+      color: white;
+    }
+  }
+}
